@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusicUIStart.iml" filepath="$PROJECT_DIR$/MusicUIStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example.module.common/example.module.common.iml" filepath="$PROJECT_DIR$/example.module.common/example.module.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example.module.db/example.module.db.iml" filepath="$PROJECT_DIR$/example.module.db/example.module.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example.module.ui/example.module.ui.iml" filepath="$PROJECT_DIR$/example.module.ui/example.module.ui.iml" />
+    </modules>
+  </component>
+</project>
